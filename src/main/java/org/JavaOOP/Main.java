@@ -1,0 +1,12 @@
+package org.JavaOOP;
+
+public class Main {
+    public static void main(String[] args) {
+
+        String firstName = "Michael";
+        String lastName = " Jackson";
+
+        System.out.println("Hello world!");
+    }
+}
+
