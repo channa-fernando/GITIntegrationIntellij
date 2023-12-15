@@ -3,8 +3,8 @@ package org.JavaOOP;
 public class Main {
     public static void main(String[] args) {
 
-        String firstName = "Michael";
-        String lastName = " White";
+        String firstName = "Silvester";
+        String lastName = " Perera";
 
         System.out.println("Combined Name: " + firstName + lastName);
     }
